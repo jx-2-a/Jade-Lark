@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>我的个人主页</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f9f9f9;
+      color: #333;
+      padding: 40px;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      background: white;
+      border-radius: 12px;
+      padding: 30px;
+      box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    }
+    h1 {
+      color: #0078d7;
+    }
+    p {
+      font-size: 18px;
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>你好，我是 xxx</h1>
+    <p>欢迎来到我的个人主页！</p>
+    <p>我感兴趣的内容包括：编程、设计、游戏开发、AI 等。</p>
+    <p>这个网页是我自己用 GitHub Pages 搭建的，后续会慢慢丰富内容。</p>
+  </div>
+</body>
+</html>
