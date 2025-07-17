@@ -1,0 +1,28 @@
+{
+  "histry": [
+    [
+      "常规文本创建",
+      "<about_draft.MainEditor object at 0x0000021178E181F0>",
+      "2025-07-17 19:06:00"
+    ],
+    [
+      "使用说明（修改中……）",
+      "<about_draft.MainEditor object at 0x0000021178E19990>",
+      "2025-07-17 19:06:05"
+    ],
+    [
+      "使用说明（修改中……）",
+      "<about_draft.MainEditor object at 0x0000021178E19870>",
+      "2025-07-17 19:06:12"
+    ],
+    [
+      "使用说明",
+      "<rich_viewer.RichContentViewer object at 0x0000021178E19900>",
+      "2025-07-17 19:06:16"
+    ]
+  ],
+  "draft": [
+    "_internal/use_resource/files/draft/9kiMA9J2yU5oF2ZasC05.json",
+    "_internal/use_resource/files/send/9kiMA9J2yU5oF2ZasC05.zip"
+  ]
+}
