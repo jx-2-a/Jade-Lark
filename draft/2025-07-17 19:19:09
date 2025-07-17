@@ -1,0 +1,44 @@
+{
+    "type": "draft",
+    "used": "rich_text",
+    "editer_id": "a2XkCGSP08",
+    "editer_code": "80:b6:55:3f:09:1b",
+    "editer_name": "?",
+    "to_tpye": "收件夹",
+    "frame_style": {
+        "background-color": "(100, 100, 150, 120)",
+        "border_w": "0",
+        "border_c": "(200,200,200,255)",
+        "border-radius": "8",
+        "padding": "10",
+        "scr_color": "(100, 100, 150, 180)",
+        "scr_w": "12",
+        "scr_radius": "6",
+        "gammmar": "欢迎你！快来看看有那些功能，以及未来的展望吧~",
+        "time": "2025-07-17 19:16:54",
+        "tittle": "使用说明"
+    },
+    "content_id": "2ehXs0laIT",
+    "2ehXs0laIT": {
+        "bQGRQB3fzv": {
+            "type": "文本块",
+            "text": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body style=\" font-family:'华文楷体','sans-serif'; font-size:24px; font-weight:400; font-style:normal;\">\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:24px;\">为说明</span></p></body></html>",
+            "style": ""
+        },
+        "JqbubViTl0": {
+            "type": "文本块",
+            "text": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body style=\" font-family:'华文楷体','sans-serif'; font-size:24px; font-weight:400; font-style:normal;\">\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">有点奇怪怎么回事</p></body></html>",
+            "style": ""
+        },
+        "qEbKuxe71H": {
+            "type": "文本块",
+            "text": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body style=\" font-family:'华文楷体','sans-serif'; font-size:24px; font-weight:400; font-style:normal;\">\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">不是很清楚欸~</p></body></html>",
+            "style": ""
+        }
+    },
+    "cixu": [
+        "bQGRQB3fzv",
+        "JqbubViTl0",
+        "qEbKuxe71H"
+    ]
+}
