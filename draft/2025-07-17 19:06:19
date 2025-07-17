@@ -1,0 +1,24 @@
+{
+    "type": "draft",
+    "used": "rich_text",
+    "editer_id": "a2XkCGSP08",
+    "editer_code": "80:b6:55:3f:09:1b",
+    "editer_name": "?",
+    "to_tpye": "收件夹",
+    "frame_style": {
+        "background-color": "(100, 100, 150, 120)",
+        "border_w": "0",
+        "border_c": "(200,200,200,255)",
+        "border-radius": "8",
+        "padding": "10",
+        "scr_color": "(100, 100, 150, 180)",
+        "scr_w": "12",
+        "scr_radius": "6",
+        "gammmar": "欢迎你！快来看看有那些功能，以及未来的展望吧~",
+        "time": "2025-07-17 18:42:05",
+        "tittle": "使用说明"
+    },
+    "content_id": "2ehXs0laIT",
+    "2ehXs0laIT": {},
+    "cixu": []
+}
