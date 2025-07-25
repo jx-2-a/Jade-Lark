@@ -1,0 +1,26 @@
+{
+  "histry": [
+    [
+      "用户",
+      "<rich_viewer.RichContentViewer object at 0x0000015D4B9C1A20>",
+      "2025-07-26 01:31:51"
+    ],
+    [
+      "用户",
+      "<rich_viewer.RichContentViewer object at 0x0000015D4B9C3010>",
+      "2025-07-26 01:31:51"
+    ],
+    [
+      "设置",
+      "<page_settings.SettingsPanel object at 0x0000015D4B9C3400>",
+      "2025-07-26 01:31:53"
+    ],
+    [
+      "设置",
+      "<page_settings.SettingsPanel object at 0x0000015D4962C820>",
+      "2025-07-26 01:31:53"
+    ]
+  ],
+  "draft": [],
+  "uuid": "10:51:07:6b:1c:d6"
+}
