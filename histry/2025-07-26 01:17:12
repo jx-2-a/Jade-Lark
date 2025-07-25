@@ -1,0 +1,146 @@
+{
+  "histry": [
+    [
+      "设置",
+      "<page_settings.SettingsPanel object at 0x0000017118AB4940>",
+      "2025-07-26 01:04:31"
+    ],
+    [
+      "设置",
+      "<page_settings.SettingsPanel object at 0x0000017118AB6EF0>",
+      "2025-07-26 01:04:33"
+    ],
+    [
+      "用户",
+      "<rich_viewer.RichContentViewer object at 0x0000017118AB77F0>",
+      "2025-07-26 01:04:34"
+    ],
+    [
+      "使用说明",
+      "<rich_viewer.RichContentViewer object at 0x000001717F1CCB80>",
+      "2025-07-26 01:04:53"
+    ],
+    [
+      "灵羽云言",
+      "<page_Lingyu_Yunyan.ChatWidget object at 0x0000017118AB7880>",
+      "2025-07-26 01:07:33"
+    ],
+    [
+      "灵羽云言",
+      "<page_Lingyu_Yunyan.ChatWidget object at 0x00000171197A2050>",
+      "2025-07-26 01:08:39"
+    ],
+    [
+      "灵羽云言",
+      "<page_Lingyu_Yunyan.ChatWidget object at 0x00000171197A20E0>",
+      "2025-07-26 01:08:39"
+    ],
+    [
+      "灵羽云言",
+      "<page_Lingyu_Yunyan.ChatWidget object at 0x00000171197A2170>",
+      "2025-07-26 01:08:40"
+    ],
+    [
+      "灵羽云言",
+      "<page_Lingyu_Yunyan.ChatWidget object at 0x00000171197A2290>",
+      "2025-07-26 01:08:41"
+    ],
+    [
+      "灵羽云言",
+      "<page_Lingyu_Yunyan.ChatWidget object at 0x00000171197A25F0>",
+      "2025-07-26 01:08:41"
+    ],
+    [
+      "灵羽云言",
+      "<page_Lingyu_Yunyan.ChatWidget object at 0x00000171197A28C0>",
+      "2025-07-26 01:08:41"
+    ],
+    [
+      "灵羽云言",
+      "<page_Lingyu_Yunyan.ChatWidget object at 0x00000171197A2B90>",
+      "2025-07-26 01:08:42"
+    ],
+    [
+      "灵羽云言",
+      "<page_Lingyu_Yunyan.ChatWidget object at 0x00000171197A2E60>",
+      "2025-07-26 01:08:43"
+    ],
+    [
+      "灵笼——推荐",
+      "<rich_viewer.RichContentViewer object at 0x0000017118AB7490>",
+      "2025-07-26 01:10:23"
+    ],
+    [
+      "常规文本创建",
+      "<about_draft.MainEditor object at 0x00000171197A36D0>",
+      "2025-07-26 01:13:18"
+    ],
+    [
+      "设置",
+      "<page_settings.SettingsPanel object at 0x00000171197AA5F0>",
+      "2025-07-26 01:13:47"
+    ],
+    [
+      "灵羽云言",
+      "<page_Lingyu_Yunyan.ChatWidget object at 0x00000171197AAF80>",
+      "2025-07-26 01:13:56"
+    ],
+    [
+      "用户",
+      "<rich_viewer.RichContentViewer object at 0x0000017119730550>",
+      "2025-07-26 01:15:28"
+    ],
+    [
+      "设置",
+      "<page_settings.SettingsPanel object at 0x00000171197AA3B0>",
+      "2025-07-26 01:15:31"
+    ],
+    [
+      "用户",
+      "<rich_viewer.RichContentViewer object at 0x00000171197AA680>",
+      "2025-07-26 01:15:35"
+    ],
+    [
+      "用户",
+      "<rich_viewer.RichContentViewer object at 0x00000171197AAE60>",
+      "2025-07-26 01:15:35"
+    ],
+    [
+      "用户",
+      "<rich_viewer.RichContentViewer object at 0x00000171197A9750>",
+      "2025-07-26 01:15:35"
+    ],
+    [
+      "设置",
+      "<page_settings.SettingsPanel object at 0x00000171197A9630>",
+      "2025-07-26 01:15:48"
+    ],
+    [
+      "设置",
+      "<page_settings.SettingsPanel object at 0x00000171197AB7F0>",
+      "2025-07-26 01:15:49"
+    ],
+    [
+      "设置",
+      "<page_settings.SettingsPanel object at 0x00000171197AB910>",
+      "2025-07-26 01:15:49"
+    ],
+    [
+      "设置",
+      "<page_settings.SettingsPanel object at 0x00000171197ABAC0>",
+      "2025-07-26 01:15:49"
+    ],
+    [
+      "设置",
+      "<page_settings.SettingsPanel object at 0x00000171197ABF40>",
+      "2025-07-26 01:16:43"
+    ],
+    [
+      "设置",
+      "<page_settings.SettingsPanel object at 0x00000171197ABBE0>",
+      "2025-07-26 01:17:11"
+    ]
+  ],
+  "draft": [],
+  "uuid": "10:51:07:6b:1c:d6"
+}
